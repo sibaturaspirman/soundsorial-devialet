@@ -1,0 +1,6 @@
+{
+  "name": "Vocal Range Analyzer",
+  "description": "Analyze your voice to determine your vocal range (Soprano, Alto, Tenor, Baritone, Bass) with real-time waveform visualization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
